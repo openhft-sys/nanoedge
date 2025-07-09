@@ -1,0 +1,5 @@
+https://www.kaggle.com/code/aishwarya2210/prediction-of-sales-using-xgboost
+
+https://www.kaggle.com/code/prashant111/a-guide-on-xgboost-hyperparameters-tuning
+
+https://xgboost.readthedocs.io/en/latest/tutorials/param_tuning.html
