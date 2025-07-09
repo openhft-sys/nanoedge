@@ -83,7 +83,7 @@ your behalf using your 5paisa brokerage account
 
 ## Why NanoEdge?
 
-QuantumBid is built for developers who already **live in the terminal** and want
+NanoEdge is built for developers who already **live in the terminal** and want
 ETF strategies for thier local setups **plus** the power to actually run code, manipulate
 files, and iterate – all under version control. In short, it’s _market‑making
 agent_ that understands and executes your trades.
@@ -98,7 +98,7 @@ And it's **fully open-source** so you can see and contribute to how it develops!
 
 ## Security Model & Permissions
 
-QuantumBid lets you decide _how much autonomy_ the agent receives and auto-approval policy via the
+NanoEdge lets you decide _how much autonomy_ the agent receives and auto-approval policy via the
 `--auth-module` in the credentials.py file in the auth folder
 
 | Mode                      | What the agent may do without asking                                                               | Still requires approval                                                                         |
@@ -161,7 +161,7 @@ Excel data/execution_log.csv
 
 ## Localized Trade Execution (LTE) Organization Limitation
 
-> **Note:** QuantumBid does **not** currently support OpenHFT organizations policy on localized trade execution
+> **Note:** NanoEdge does **not** currently support OpenHFT organizations policy on localized trade execution
 
 If you are using this repo for your firm and your organization has no localized trade execution then this agent may fail.
 
