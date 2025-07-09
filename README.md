@@ -1,7 +1,7 @@
 <h1 align="center">NanoEdge</h1>
 <p align="center">An automated agent for running ETF algo strategies in your terminal</p>
 
-![NanoEdge demo GIF using: ](./render/render.gif)
+![NanoEdge demo GIF using: ](./render/nanoedge_render.gif)
 
 ---
 
